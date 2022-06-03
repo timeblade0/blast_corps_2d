@@ -1,4 +1,4 @@
-# Blast Ccorps 2D
+# Blast Corps 2D
 
 Based on the N64 game Blast Corps  
 Source Code was made in Game Maker Studio 2
