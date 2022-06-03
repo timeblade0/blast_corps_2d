@@ -8,15 +8,14 @@ Source Code was made in Game Maker Studio 2
 
 Controls:  
 -------------------------
-Arrows keys as human:              move
-Left/Right Arrow keys in vehicle:  rotate vehicle
-Up/Down Arrow keys in vehicle:     move vehicle
-Space Var in vehicle:              exit vehicle
+Arrows keys as human:              move  
+Left/Right Arrow keys in vehicle:  rotate vehicle  
+Up/Down Arrow keys in vehicle:     move vehicle  
+Space Var in vehicle:              exit vehicle  
 
 Esc:                               Exit Game  
-F2:                                Restart Game
-Enter:                             Pasue or return to stage select
-
+F2:                                Restart Game  
+Enter:                             Pasue or return to stage select  
 
 How to Play:  
 -------------------------
