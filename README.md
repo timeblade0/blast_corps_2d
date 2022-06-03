@@ -11,7 +11,7 @@ Controls:
 Arrows keys as human:              move  
 Left/Right Arrow keys in vehicle:  rotate vehicle  
 Up/Down Arrow keys in vehicle:     move vehicle  
-Space Var in vehicle:              exit vehicle  
+Space Bar in vehicle:              exit vehicle  
 
 Esc:                               Exit Game  
 F2:                                Restart Game  
@@ -19,6 +19,6 @@ Enter:                             Pasue or return to stage select
 
 How to Play:  
 -------------------------
-A nuclear missle truck is out of control. If it crashes into anything, the world is gone.
-Use construction equipment to clear all buildings and vehicles out of the missle's path. The missle truck is stable enough to knock down trees.
+A nuclear missile truck is out of control. If it crashes into anything, the world is gone.
+Use construction equipment to clear all buildings and vehicles out of the missile's path. The missile truck is stable enough to knock down trees.
 Press space to exit a vehicle. You can then enter another vehicle.
