@@ -15,7 +15,7 @@ Space Bar in vehicle:              exit vehicle
 
 Esc:                               Exit Game  
 F2:                                Restart Game  
-Enter:                             Pasue or return to stage select  
+Enter:                             Pause or return to stage select  
 
 How to Play:  
 -------------------------
