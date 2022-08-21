@@ -1,0 +1,3 @@
+//deactivate checkpont and activate finish line
+instance_activate_object(obj_finishline_v)
+instance_deactivate_object(obj_checkpoint_v)

@@ -1,0 +1,18 @@
+//20220603
+	camera now follows player
+	minor tweaks to stage2
+	scaled stage3 to 1024x768
+	scaled stage4 to 1024x768
+	finished stage3
+	finished stage4
+	finished bonus1
+
+//20220530 SMW
+	fixed bulldozer rotation not working
+	changed bulldozer sprite to be rotated vs 50 sub images
+	upgraded from 30fps to 60 fps
+	fixed building3 drawing weird
+	fix human bouncing off RDU
+	fix comlink sending oiut  multi sparks
+	scaled bonus1 to 1024x768
+	scaled stage2 to 1024x768

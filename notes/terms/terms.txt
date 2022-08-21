@@ -1,0 +1,3 @@
+RDU = Radiation Detection Units
+medal = bronze, silver, and gold for entie stage. on stage select
+badge = indiidual stage award for getting all RDU's and buildings
