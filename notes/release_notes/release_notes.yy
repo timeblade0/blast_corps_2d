@@ -1,10 +1,11 @@
 {
-  "parent": {
-    "name": "Notes",
-    "path": "folders/Notes.yy",
+  "$GMNotes":"",
+  "%Name":"release_notes",
+  "name":"release_notes",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
   },
-  "resourceVersion": "1.1",
-  "name": "release_notes",
-  "tags": [],
-  "resourceType": "GMNotes",
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
 }
